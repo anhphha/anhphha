@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anhphha
-- 👀 I’m interested in Big Data Analytcis
+- 👀 I’m entering Data Scince field, specialized in Data Engineering, Big Data Analytcis.
 - 🌱 I’m currently learning Data Engineering (ML, DL, AI, coding, debug)
 - 💞️ I’m looking to collaborate on all possible Data Analytcis projects
 - 📫 Please reach me via anh.ph.ha@gmail.com
