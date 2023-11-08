@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anhphha
+- 👋 Hi, I’m Ann @anhphha
 - 👀 I’m entering Data Science field, specialized in Big Data Analytcis.
 - 🌱 I’m currently learning Data Engineering (Machine Learning, Deep Learning, Artificial Intelligence, coding)
 - 💞️ I’m looking to collaborate on all possible Data Science and Analytics projects
