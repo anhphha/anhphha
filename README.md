@@ -2,7 +2,7 @@
 - 👀 I’m entering Data Science field, specialized in Big Data Analytcis.
 - 🌱 I’m currently learning Data Engineering (Machine Learning, Deep Learning, Artificial Intelligence, coding)
 - 💞️ I’m looking to collaborate on all possible Data Science and Analytics projects
-- 📫 Please reach me via anh.ph.ha(at)gmail.com or my Linkedin: https://bit.ly/2XyNMX8
+- 📫 Please reach me via anh.ph.ha(at)gmail.com or my Linkedin: [LinkedIn](https://www.linkedin.com/in/anhphha/)
 
 
 <!---
